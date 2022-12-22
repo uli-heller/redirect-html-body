@@ -53,10 +53,10 @@ Files
 -----
 
 - ./README.md
-- ./source.html
+- **./source.html**
 - ./destination.html
-- ./subfolder/source-subdir.html
-- ./subfolder/destination-subdir.html
+- **./subfolder/source-subfolder.html**
+- ./subfolder/destination-subfolder.html
 
 Links
 -----
