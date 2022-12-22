@@ -46,6 +46,8 @@ How To Test It
   - Click on "subfolder"
   - Click on "source-subfolder.html"
   - Expect "destination-subfolder.html" to be shown
+- Close the browser
+- Terminate the python http server
 
 Files
 -----
