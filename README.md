@@ -39,6 +39,10 @@ How To Test It
 - Change your working directory to the one containing this README.md: `cd ~/git-projects/redirect-html-body`
 - Start a python http server: `python -m http.server 8888`
 - Open this URL within a browser: [http://localhost:8888](http://localhost:8888)
+- Top level test
+  - Click on "source.html"
+  - Expect "destination.html" to be shown
+- Subfolder test
 
 
 Files
@@ -47,8 +51,8 @@ Files
 - ./README.md
 - ./source.html
 - ./destination.html
-- ./subdir/source-subdir.html
-- ./subdir/destination-subdir.html
+- ./subfolder/source-subdir.html
+- ./subfolder/destination-subdir.html
 
 Links
 -----
